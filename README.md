@@ -12,12 +12,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 ### Ontwerper:
-Sanne 't Hooft (vervangen door jouw naam)
+Tatum Loggere
 
 #### Je startniveau:
-Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
-
-
+Hemelsblauw
 
 
 # Je plan
@@ -31,10 +29,9 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Zoveel mogelijk leren over html en css
+  - Mezelf uitdagen om een stapje verder te gaan
+  - Niet bang zijn om vragen te stellen wanneer nodig
  
 </details>
 
@@ -159,8 +156,8 @@ Mijn startniveau is: hier je startniveau (kies uit zwart, rood óf blauw)
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
+1. Bron Afbeelding race auto: https://free3d.com/nl/3d-model/mario-kart-tour-toad-pipe-frame-model-4754.html
+2. Bron Lettertype: https://www.fontspace.com/super-mario-286-font-f22053
 3. ...
 
 </details>
