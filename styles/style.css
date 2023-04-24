@@ -132,6 +132,14 @@ main ol:nth-of-type(1)  li:nth-of-type(6) {
   top:1.5%;
 }
 
+/* afbeelding van Toad zijn hoofd */
+.afbeelding3 {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  width: 15%;
+}
+
+
 button:not([disabled]) {
   cursor:pointer;
 }
@@ -157,6 +165,7 @@ p {
   justify-content: left;
   align-items: left;
   font-size:1.2em;
+  font-family: sans-serif, Helvetica, Arial;
 }
 
 
@@ -165,7 +174,7 @@ body > ol {
   padding:0;
   list-style: none;
 
-  background-color: #ff06;
+  /* background-color: #ff06; */
   display:grid;
   justify-items: center;
 }
@@ -176,7 +185,53 @@ body > ol li {
   width:80%;
   height: 80%;
 
-  background-color: red;
+  background-color: #B11F24;
+  border-radius: 2%;
+
+  opacity: 0;
+  pointer-events: none;
+
+  transition: 0.3s;
+}
+
+a {
+  color: white;
+}
+
+body > ol li.show {
+  opacity: 1;
+  pointer-events: all;
+  text-align: center;
+} 
+
+body > ol li {
+  padding: 2em;
+}
+
+
+body > ol li a {
+  font-size: 3em;
+  color: white;
+  text-decoration: none;
+}
+
+body > ol li p {
+color: white;
+text-align: left;
+font-family: sans-serif, Helvetica, Arial;
+}
+
+/* SLUIT KNOP */
+body > ol li button {
+  color: white;
+  background-color: darkblue;
+  width: 15%;
+  height: 15%;
+  /* display: flex;
+  justify-content: flex-end; */
+  
+
+  
 }
 
 
