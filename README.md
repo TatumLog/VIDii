@@ -189,6 +189,7 @@ Hemelsblauw
 
   ### Dit was lastig/Is niet gelukt:
   <img src="readme-images/animatie.png" width="375px" alt="animatie">
+  
   Wat ik het lastigste vond van de hele opdracht was het maken van de animatie (De auto laten rijden naar de jaartalen). Dit was voor mij de eerste keer dus maakte me hier wel een beetje zorgen om. Met hulp van Sanne is dit uiteindelijk gelukt en is dit ook het deel waar ik het meest trots op ben aangezien ik eerst dacht dat het me niet ging lukken. 
   Verder had ik weinig ervaring met het maken van een grid, dit ging ook niet in 1 keer goed maar wanneer Sanne dit uitlegde is het wel meteen duidelijk en begrijp ik ook hoe ik de grid heb gemaakt. 
 </details>
