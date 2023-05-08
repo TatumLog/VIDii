@@ -285,7 +285,7 @@ body > ol li {
   height: 80%;
   padding: 2em;
 
-  background-color: #B11F24;
+  background-color: rgb(176, 38, 38);
   border-radius: 4% 4% 4% 0;
 
   opacity: 0;
@@ -310,7 +310,7 @@ body > ol li::after {
   width:6%;
   aspect-ratio: 1/1;
 
-  background-image: radial-gradient(at left top, transparent 69.5%, #B11F24 70.5%);
+  background-image: radial-gradient(at left top, transparent 69.5%, rgb(176, 38, 38) 70.5%);
 }
 
 body > ol li.show {

@@ -43,10 +43,11 @@ Hemelsblauw
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Danielle heeft mij feedback gegeven en dit zijn de bevindingen uit ons gesprek</summary>
+  <summary>Danielle heeft mij feedback gegeven en dit zijn de bevindingen uit ons gesprek:</summary>
 
   ### Bevinding 1:
 <img src="readme-images/mirofeedback1.png" width="375px" alt="mirobord feedback">
+  
   Dit is een afbeelding uit het miro bord waar ik mijn eerste ideeen heb geplaatst. Hier ben ik met Danielle doorheen gegaan en ze vond het idee duidelijk en leuk. Ze vond wel dat het nog simpel was en dat er nog veel toegevoegd kon worden.
 
   #### oplossing:
@@ -65,7 +66,7 @@ Hemelsblauw
 
   ### Bevinding 3:
   Zou leuk zijn om de auto op de racebaan te besturen met knopjes zoals hieronder getoond.
-  <img src="readme-images/pijltjes.png" width="375px" alt="mirobord feedback">
+  <img src="readme-images/pijltjes.png" width="180px" alt="mirobord feedback">
 
   #### oplossing:
   Dit heb ik uiteindelijk niet gedaan maar er is wel de mogelijkheid op de raceauto te laten rijden.
@@ -81,9 +82,10 @@ Hemelsblauw
 
 
   ### Bevinding 5:
-
+  We waren het beide eens dat Toad een leuker en orgineler karakter is dan Mario.
 
   #### oplossing:
+  Ik heb Toad gebruikt als karakter voor de opdracht. 
 
 
 </details>
@@ -94,56 +96,69 @@ Hemelsblauw
 ## Voortgang/Feedback 2
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Jaime heeft mij feedback gegeven en dit zijn de bevindingen uit ons gesprek:</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Jaime zei dat info box op een creatievere manier getoond kon worden.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Dit heb ik gedaan door er een tekstbox van te maken en een hoofd van Toad toe te voegen waardoor het lijkt dat Toad zelf alle informatie verteld. Ook heb ik bij elk tekstboxje een afbeelding toe gevoegd.
+  <img src="readme-images/tekstbox.png" width="180px" alt="mirobord feedback">
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Code is soms niet helemaal duidelijk waar het over gaat.
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  Ik heb zoveel mogelijk comments toe gevoegd om het zo duidelijk mogelijk te maken. Ook voor mezelf is dit heel fijn omdat je hierdoor alles makkelijk terug kan vinden. 
 
   ### Bevinding 3:
-  ...
+  Jaime vond het idee van de raceauto die naar de jaartalen toe rijdt erg leuk.
+ 
+  #### oplossing:
+  Dit heb ik uitgewerkt en de raceauto kan nu rijden.
+
+
+  ### Bevinding 4:
+  Jaime vond de achtergrond iets te saai en adviseerde om deze eventueel nog aan te passen.
+  
+  #### oplossing:
+  Ik heb de achtergrond gelaten zoals het is want ik vond deze wel mooi en wil niet een te opvallende achtergrond aangezien de focus daar niet op ligt. 
+
+
+  ### Bevinding 5:
+  Github link werkte niet.
+  
+  #### oplossing:
+  Hier heb ik later naar gekeken en deze werkt nu wel. 
 
 </details>
 
 
 
 
-## Voortgang/Feedback 3
+## Voortgang/Feedback 3/Test
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Isabelle heeft mij feedback gegeven en dit zijn de bevindingen uit ons gesprek/test:</summary>
+
+  De opdracht is af maar heb voor een laatste keer feedback gekregen ook om te testen of alles werkt en duidelijk is. 
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  Github link werkte niet. Het had blijkbaar even tijd nodig voor github om te laden en de link werkte na een tijdje wel.
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
-
+  Het was meteen duidelijk voor Isabelle waar het over ging
 
   ### Bevinding 3:
-  ...
+  Ze had begreep dat de jaartallen klikbaar waren en dat hierdoor de auto naar het jaartal reed
+ 
+  ### Bevinding 4:
+  Je kan tappen op de jaartalen en ook op enter klikken zodat de auto gaat rijden. Dit kan dus zowel met de muis als met het toetsenbord. 
 
+  ### Bevinding 5:
+  De website is responsive en de teksten hebben voldoende contrast met de achtergrond.
+  
 </details>
 
 
