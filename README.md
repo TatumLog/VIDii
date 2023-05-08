@@ -25,7 +25,7 @@ Hemelsblauw
 
   ### De eerste versie/schets:
   Ik heb een eerste schets gemaakt van mijn eventuele idee voor de opdracht. Het is een racebaan met daarop vlaggetjes met een jaartal. In elk jaartal bevindt een belangrijke mijlpaal van Toad zijn evolutie:
-  <img src="/images/racebaan-schets.png" width="375px" alt="eerste versie/schets">
+  <img src="readme-images/racebaan-schets.png" width="375px" alt="eerste versie/schets">
 
 
   ### Je ambitie: 
@@ -46,11 +46,11 @@ Hemelsblauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-<img src="/mirofeedback1.png" width="375px" alt="eerste versie/schets">
+<img src="readme-images/mirofeedback1.png" width="375px" alt="mirobord feedback">
   Het idee was duidelijk maar mocht nog wat uitgebreider
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  
 
 
 
