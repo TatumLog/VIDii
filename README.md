@@ -47,23 +47,26 @@ Hemelsblauw
 
   ### Bevinding 1:
 <img src="readme-images/mirofeedback1.png" width="375px" alt="mirobord feedback">
+  
   Het idee was duidelijk maar mocht nog wat uitgebreider
 
   #### oplossing:
   
+  Idee verder uitwerken
 
 
 
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Sounds zouden een leuke toevoeging kunnen zijn 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Dit was mij vrij snel gelukt door het te googelen. Ik heb van een liedje een mp3 gemaakt en dit gelinkt aan een afbeelding. 
 
 
 
   ### Bevinding 3:
-  ...
+  Zou leuk zijn om de auto op de racebaan te besturen met knopjes
+  <img src="readme-images/pijltjes.png" width="375px" alt="mirobord feedback">
 
 </details>
 
