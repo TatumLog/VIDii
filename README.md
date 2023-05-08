@@ -43,21 +43,20 @@ Hemelsblauw
 ## Voortgang/Feedback 1
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Danielle heeft mij feedback gegeven en dit zijn de bevindingen uit ons gesprek</summary>
 
   ### Bevinding 1:
 <img src="readme-images/mirofeedback1.png" width="375px" alt="mirobord feedback">
-  
-  Het idee was duidelijk maar mocht nog wat uitgebreider
+  Dit is een afbeelding uit het miro bord waar ik mijn eerste ideeen heb geplaatst. Hier ben ik met Danielle doorheen gegaan en ze vond het idee duidelijk en leuk. Ze vond wel dat het nog simpel was en dat er nog veel toegevoegd kon worden.
 
   #### oplossing:
   
-  Idee verder uitwerken
+  Idee verder uitwerken en nadenken hoe ik de informatie van de jaartalen kan weergeven. 
 
 
 
   ### Bevinding 2:
-  Sounds zouden een leuke toevoeging kunnen zijn 
+  Sounds zouden een leuke toevoeging kunnen zijn. 
 
   #### oplossing:
   Dit was mij vrij snel gelukt door het te googelen. Ik heb van een liedje een mp3 gemaakt en dit gelinkt aan een afbeelding. 
@@ -65,8 +64,27 @@ Hemelsblauw
 
 
   ### Bevinding 3:
-  Zou leuk zijn om de auto op de racebaan te besturen met knopjes
+  Zou leuk zijn om de auto op de racebaan te besturen met knopjes zoals hieronder getoond.
   <img src="readme-images/pijltjes.png" width="375px" alt="mirobord feedback">
+
+  #### oplossing:
+  Dit heb ik uiteindelijk niet gedaan maar er is wel de mogelijkheid op de raceauto te laten rijden.
+
+
+
+  ### Bevinding 4:
+  Op de schets is de racebaan nog een beetje saai en zou iets duidelijker kunnen.
+
+  #### oplossing:
+  Ik heb van de schets een digitaal ontwerp gemaakt in ilustrator, hiebrij heb ik witte lijntjes toegevoed en een duidelijke startlijn gemaakt. Met deze details is het nog duidelijker dat het om een racebaan gaat.
+
+
+
+  ### Bevinding 5:
+
+
+  #### oplossing:
+
 
 </details>
 
