@@ -241,11 +241,11 @@ button:not([disabled]) {
 
 
 h1 {
-  color:var(--color-headings);
   display: flex;
   justify-content: left;
   align-items: left;
   font-size:2.5em;
+  color:var(--color-headings);
 }
 
 /* Tekst: in deze tijdlijn... */

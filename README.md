@@ -66,7 +66,7 @@ Hemelsblauw
 
   ### Bevinding 3:
   Zou leuk zijn om de auto op de racebaan te besturen met knopjes zoals hieronder getoond.
-  <img src="readme-images/pijltjes.png" width="180px" alt="mirobord feedback">
+  <img src="readme-images/pijltjes.png" width="180px" alt="pijltjes toetsenbord">
 
   #### oplossing:
   Dit heb ik uiteindelijk niet gedaan maar er is wel de mogelijkheid op de raceauto te laten rijden.
@@ -103,7 +103,7 @@ Hemelsblauw
 
   #### oplossing:
   Dit heb ik gedaan door er een tekstbox van te maken en een hoofd van Toad toe te voegen waardoor het lijkt dat Toad zelf alle informatie verteld. Ook heb ik bij elk tekstboxje een afbeelding toe gevoegd.
-  <img src="readme-images/tekstbox.png" width="180px" alt="mirobord feedback">
+  <img src="readme-images/tekstbox.png" width="375px" alt="tekstbox">
 
 
   ### Bevinding 2:
@@ -158,6 +158,9 @@ Hemelsblauw
 
   ### Bevinding 5:
   De website is responsive en de teksten hebben voldoende contrast met de achtergrond.
+
+  ### Bevinding 6:
+  De fonts worden correct getoond via github op een andere computer
   
 </details>
 
@@ -170,13 +173,18 @@ Hemelsblauw
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="final ontwerp">
+  <img src="readme-images/eindopdracht.png" width="375px" alt="final ontwerp">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatje(s)
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/codesound.png" width="375px" alt="code sound">
+
+  Het toevoegen van een sound ging vrij eenvoudig. Met behulp van het internet heb ik dit kunnen doen. 
+
+  <img src="readme-images/codefont.png" width="375px" alt="code font">
+
+  Ook het toevoegen van het font ging goed. In het begin veranderde er niks en dit kwam omdat het niet goed verwees naar het mapje van de font. Dit heb ik dus vrij snel kunnen oplossen. 
 
 
   ### Dit was lastig/Is niet gelukt:
