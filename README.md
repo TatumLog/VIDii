@@ -6,7 +6,7 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-Live link: https://tatumlog.github.io/VIDii/
+
 
 
 ## Jij
@@ -24,7 +24,7 @@ Hemelsblauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="eerste versie/schets">
+  <img src="racebaan-schets.jpeg" width="375px" alt="eerste versie/schets">
 
 
   ### Je ambitie: 
