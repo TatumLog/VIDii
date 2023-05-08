@@ -46,7 +46,7 @@ Hemelsblauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-
+<img src="/mirofeedback1.png" width="375px" alt="eerste versie/schets">
   Het idee was duidelijk maar mocht nog wat uitgebreider
 
   #### oplossing:
