@@ -24,6 +24,7 @@ Hemelsblauw
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
+  Ik heb een eerste schets gemaakt van mijn eventuele idee voor de opdracht. Het is een racebaan met daarop vlaggetjes met een jaartal. In elk jaartal bevindt een belangrijke mijlpaal van Toad zijn evolutie:
   <img src="/images/racebaan-schets.png" width="375px" alt="eerste versie/schets">
 
 
@@ -45,7 +46,8 @@ Hemelsblauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+
+  Het idee was duidelijk maar mocht nog wat uitgebreider
 
   #### oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
