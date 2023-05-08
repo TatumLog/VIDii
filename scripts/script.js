@@ -3,7 +3,7 @@ console.log("Howdy!");
 
 
 const audioPlayer = document.getElementById('audioPlayer');
-const raceauto = document.querySelector('.afbeelding2');
+const raceauto = document.querySelector('#afbeelding2');
 
 // Speel het MP3-bestand af wanneer er over de raceauto wordt gehoverd
 raceauto.addEventListener('mouseover', () => {
@@ -29,6 +29,15 @@ function open1985(event) {
     event.preventDefault();
 
     info1985.classList.add("show");
+
+    // de auto mag rijden
+    raceauto.classList.remove("stop");
+
+    // na .5s stopt die weer
+    setTimeout(() => {
+        raceauto.classList.add("stop");
+        button1988.classList.remove("disabled");
+    }, 450);
 }
 
 function sluiten1985(event) {
@@ -47,6 +56,15 @@ function open1988(event) {
     event.preventDefault();
 
     info1988.classList.add("show");
+
+     // de auto mag rijden
+     raceauto.classList.remove("stop");
+
+     // na .5s stopt die weer
+     setTimeout(() => {
+         raceauto.classList.add("stop");
+         button2001.classList.remove("disabled");
+     }, 900);
 }
 
 function sluiten1988(event) {
@@ -65,6 +83,15 @@ function open2001(event) {
     event.preventDefault();
 
     info2001.classList.add("show");
+
+     // de auto mag rijden
+     raceauto.classList.remove("stop");
+
+     // na .5s stopt die weer
+     setTimeout(() => {
+         raceauto.classList.add("stop");
+         button2007.classList.remove("disabled");
+     }, 1350);
 }
 
 function sluiten2001(event) {
@@ -83,6 +110,15 @@ function open2007(event) {
     event.preventDefault();
 
     info2007.classList.add("show");
+
+     // de auto mag rijden
+     raceauto.classList.remove("stop");
+
+     // na .5s stopt die weer
+     setTimeout(() => {
+         raceauto.classList.add("stop");
+         button2012.classList.remove("disabled");
+     }, 1970);
 }
 
 function sluiten2007(event) {
@@ -101,6 +137,15 @@ function open2012(event) {
     event.preventDefault();
 
     info2012.classList.add("show");
+
+     // de auto mag rijden
+     raceauto.classList.remove("stop");
+
+     // na .5s stopt die weer
+     setTimeout(() => {
+         raceauto.classList.add("stop");
+         button2017.classList.remove("disabled");
+     }, 1750);
 }
 
 function sluiten2012(event) {
@@ -119,8 +164,17 @@ function open2017(event) {
     event.preventDefault();
 
     info2017.classList.add("show");
+
+     // de auto mag rijden
+     raceauto.classList.remove("stop");
+
+     // na .5s stopt die weer
+     setTimeout(() => {
+         raceauto.classList.add("stop");
+     }, 1700);
 }
 
 function sluiten2017(event) {
     info2017.classList.remove("show");
 }
+

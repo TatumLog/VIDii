@@ -32,6 +32,7 @@ Hemelsblauw
   - Zoveel mogelijk leren over html en css
   - Mezelf uitdagen om een stapje verder te gaan
   - Niet bang zijn om vragen te stellen wanneer nodig
+  - Een leuke animatie maken
  
 </details>
 

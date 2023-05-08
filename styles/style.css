@@ -85,6 +85,10 @@ main ol:nth-of-type(1)  li a {
   text-decoration: none;
 }
 
+main ol:nth-of-type(1)  li a.disabled {
+  opacity:.1;
+}
+
 main ol:nth-of-type(1)  li:nth-of-type(1) {
   left:55.59%;
   top:-10.4%;
@@ -121,15 +125,97 @@ main ol:nth-of-type(1)  li:nth-of-type(6) {
 .afbeelding {
   width:100%;
   height: auto;
-  display:block;
+  display: block;
 }
 
 /* afbeelding van de raceauto: */
-.afbeelding2 {
+#afbeelding2 {
   position: absolute;
   width: 15%;
   left:30%;
-  top:1.5%;
+  top:-1.5%;
+  /* rotate: 180deg; */
+
+  animation: hereWeGo;
+  animation-duration: 10s;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+}
+
+#afbeelding2.stop { 
+  animation-play-state: paused;
+}
+
+/* raceauto laten rijden :) */
+@keyframes hereWeGo {
+  0% {
+    /* 1e = x, 2e = y */
+    transform: translate(0, 0) rotate(0deg);
+  }
+  5% {
+    transform: translate(150%, 0) rotate(0deg);
+  }
+  5.1% {
+    transform: translate(150%, 0) rotate(80deg);
+  }
+  10% {
+    transform: translate(220%, 180%) rotate(80deg);
+  }
+  10.1% {
+    transform: translate(220%, 180%) rotate(0deg);
+  }
+  15% {
+    transform: translate(370%, 180%) rotate(0deg);
+  }
+  15.1% {
+    transform: translate(370%, 180%) rotate(90deg);
+  }
+  23% {
+    transform: translate(370%, 430%) rotate(90deg);
+  }
+  23.1% {
+    transform: translate(370%, 430%) rotate(180deg);
+  }
+  39% {
+    transform: translate(-120%, 435%) rotate(180deg);
+  }
+  39.1% {
+    transform: translate(-120%, 435%) rotate(90deg);
+  }
+  44% {
+    transform: translate(-120%, 590%) rotate(90deg);
+  }
+  44.1% {
+    transform: translate(-120%, 590%) rotate(0deg);
+  }
+  51% {
+    transform: translate(80%, 590%) rotate(0deg);
+  }
+  51.1% {
+    transform: translate(80%, 590%) rotate(-90deg);
+  }
+  62% {
+    transform: translate(80%, 235%) rotate(-90deg);
+  }
+  62.1% {
+    transform: translate(80%, 235%) rotate(180deg);
+  }
+  71% {
+    transform: translate(-200%, 245%) rotate(180deg);
+  }
+  71.1% {
+    transform: translate(-200%, 245%) rotate(-90deg);
+  }
+  79% {
+    transform: translate(-200%, 0%) rotate(-90deg);
+  }
+  79.1% {
+    transform: translate(-200%, 0%) rotate(0deg);
+  }
+  86% {
+    transform: translate(0%, 0%) rotate(0deg);
+  }
+
 }
 
 /* afbeelding van Toad zijn hoofd */
@@ -138,6 +224,8 @@ main ol:nth-of-type(1)  li:nth-of-type(6) {
   grid-row-start: 1;
   width: 15%;
 }
+
+
 
 
 button:not([disabled]) {
@@ -189,22 +277,40 @@ body > ol {
 }
 
 body > ol li {
+  position: relative;
+  /* grid child */
   grid-column-start: 1;
   grid-row-start: 1;
   width:80%;
   height: 80%;
+  padding: 2em;
 
   background-color: #B11F24;
-  border-radius: 2%;
+  border-radius: 4% 4% 4% 0;
 
   opacity: 0;
   pointer-events: none;
 
   transition: 0.3s;
+
+  /* grid parent */
+  display: grid; 
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: max-content 1fr max-content;
+  column-gap: 1em;
+  row-gap: 1em;
 }
 
-a {
-  color: white;
+/* Tekstbalkje (Links onder)  */
+body > ol li::after {
+  content:"";
+  position: absolute;
+  bottom:0;
+  right:100%;
+  width:6%;
+  aspect-ratio: 1/1;
+
+  background-image: radial-gradient(at left top, transparent 69.5%, #B11F24 70.5%);
 }
 
 body > ol li.show {
@@ -213,34 +319,36 @@ body > ol li.show {
   text-align: center;
 } 
 
-body > ol li {
-  padding: 2em;
-}
-
-
-body > ol li a {
+body > ol li h2 {
   font-size: 3em;
   color: white;
-  text-decoration: none;
+  /* text-decoration: none; */
+  text-align: left;
+  margin:0;
 }
 
 body > ol li p {
 color: white;
 text-align: left;
 font-family: sans-serif, Helvetica, Arial;
+margin: 0;
 }
 
 /* SLUIT KNOP */
 body > ol li button {
   color: white;
   background-color: darkblue;
-  width: 15%;
-  height: 15%;
-  /* display: flex;
-  justify-content: flex-end; */
-  
-
-  
+  width: 5em;
+  height: 3em;
+  border-radius: 20%;
 }
 
-
+body > ol li img {
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit: cover;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  grid-column-start: 2;
+}
